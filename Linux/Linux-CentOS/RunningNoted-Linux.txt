@@ -23,5 +23,5 @@ Centos Installation steps
 15. cp 			---- copy 
 16. mv			---- mvoing, renaming
 17. rm 			---- deleting , removing
-18. mkdir rm		---- deleding dir (with content)
+18. rmdir rm		---- deleding dir (with content)
  
